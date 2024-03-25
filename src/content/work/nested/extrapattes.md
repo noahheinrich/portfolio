@@ -15,16 +15,16 @@ tags:
 
 > Premier projet que j'ai eu à faire pour une vraie cliente. 
 
-Pour ce projet, je faisait parti d'un groupe de 4 personne. 3 personnes faisaient la maquette et le contenu du site pendant une semaine, puis j'ai eu à développer le site en suivant la maquette sur Wordpress. 
+Pour ce projet, je faisais partie d'un groupe de 4 personnes. 3 personnes faisaient la maquette et le contenu du site pendant une semaine, puis j'ai eu à développer le site en suivant la maquette sur Wordpress. 
 <br>
-Ce site a été réalisé pour une cliente qui possède des chiens de traineaux et qui voulait un renouveau de son ancien site qui été fait sur Wix. 
+Ce site a été réalisé pour une cliente qui possède des chiens de traîneau et qui voulait un renouveau de son ancien site qui était fait sur Wix. 
 <br><br>
-Une maquette du site a tout d'abord été réalisé sur Figma, j'ai ensuite été amené à développer sur Wordpress cette maquette grâce au plugin ACF.
+Une maquette du site a tout d'abord été réalisée sur Figma, j'ai ensuite été amené à développer sur Wordpress cette maquette grâce au plugin ACF.
 <br>
-Le site est disponible <a href="https://mmi-interne.univ-smb.fr/noahheinrich/">ici. </a>Il n'est pas encore totalement fini, en effet il reste le côté responsive à faire mais cela devrait être fait prochainement.
+Le site est disponible <a href="https://mmi-interne.univ-smb.fr/noahheinrich/">ici. </a>Il n'est pas encore totalement fini, en effet, il reste le côté responsive à faire, mais cela devrait être fait prochainement.
 
 ### Ce que j'ai appris
-Ce projet m'a permis d'apprendre à développer un site grâce à Wordpress, je n'en avait jamais fait avant cette semaine, et c'est quelque chose que j'ai beaucoup aprécié faire. 
+Ce projet m'a permis d'apprendre à développer un site grâce à Wordpress, je n'en avais jamais fait avant cette semaine, et c'est quelque chose que j'ai beaucoup apprécié faire. 
 J'ai également appris à faire un peu de JS et du GSAP pour certaines animations sur le site. 
 <br>
 Ces deux semaines m'ont également appris à travailler en équipe avec un graphic designer, ce qu'il était possible de faire ou non, comment communiquer efficacement. 
