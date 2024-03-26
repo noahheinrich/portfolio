@@ -16,8 +16,8 @@ tags:
 
 Le sujet de ce projet était de faire une PWA en réact pour apprendre comment cela fonctionne. 
 Nous avons donc eu l'idée de faire un pokédex version League of Legends. 
-Pour cela nous avons cherché sur différents site internet des information sur les champions du jeu pour pouvoir avoir des informations précises. 
-Si vous voulez y avoir accès il est disponible <a href="https://github.com/noahheinrich/loldex">ici. </a>
+Pour cela, nous avons cherché sur différents sites internet des information sur les champions du jeu pour pouvoir avoir des informations précises. 
+Si vous voulez y avoir accès, il est disponible <a href="https://github.com/noahheinrich/loldex">ici. </a>
 
 ### Ce que j'ai appris 
 Ce projet m'a permis d'apprendre à faire du React et comment transformer mon projet en application. 

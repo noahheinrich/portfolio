@@ -25,4 +25,4 @@ Grâce à ce projet, j'ai appris comment fonctionne du Arduino et j'ai appris le
 J'ai également appris processing que je ne connaissais pas avant.
 <br>
 Ce projet m'a également appris à partager les tâches, car nous étions 5 et nous avons donc dû nous séparer tout ce qu'il y avait à faire alors que l'environnement processing n'est pas le plus à même pour cela. 
-Globalement, j'ai vraiment aprécié faire ce projet, vous pouvez le retrouver<a href="https://github.com/noahheinrich/TapeTaupe"> ici </a>avec le compte-rendu que nous avons réalisé en Latex si vous voulez en savoir plus. 
+Globalement, j'ai vraiment apprécié faire ce projet, vous pouvez le retrouver<a href="https://github.com/noahheinrich/TapeTaupe"> ici </a>avec le compte-rendu que nous avons réalisé en Latex si vous voulez en savoir plus. 
