@@ -10,7 +10,7 @@ tags:
   - Travail d'équipe
 ---
 
-## Amélioration de mes compétences de Processing
+## Approfondissement de Processing
 
 > Second projet Processing que j'ai eu à faire au cours de ma formation. 
 
